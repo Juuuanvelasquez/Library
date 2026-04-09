@@ -239,7 +239,6 @@ export MaxLibrosPermitidos=10
 
 ---
 
-## 👤 Autor
+## 👤 Juan Pablo velásquez Moreno
 
-Juan pablo velásquez moreno
 Desarrollado como prueba técnica para desarrollador .NET.
